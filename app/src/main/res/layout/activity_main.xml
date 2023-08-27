@@ -15,7 +15,7 @@
         android:background="@color/design_default_color_primary"
         android:textAlignment="textEnd"
         android:theme="@style/Theme.AppCompat.Light.DarkActionBar"
-        app:title="Yoga App"
+        app:title="FIT LOVE"
         app:titleTextColor="#FFF"
         android:gravity="end"
         />
@@ -56,7 +56,7 @@
                     android:layout_height="wrap_content"
                     android:fontFamily="monospace"
                     android:padding="5.0dp"
-                    android:text="Before Age 18"
+                    android:text="FOR MINORS"
                     android:textColor="#ff000000"
                     android:textSize="20.0dp"
                     android:textStyle="bold"
@@ -66,14 +66,14 @@
                            android:layout_height="wrap_content"
                            android:fontFamily="serif"
                            android:padding="5.0dp"
-                           android:text="Days 60"
-                           android:textSize="20.0dp"
+                           android:text="We are what we repeatedly do. Excellence then is not an act but a habit."
+                           android:textSize="10.0dp"
                            />
                        <TextView
                            android:layout_width="wrap_content"
                            android:layout_height="wrap_content"
                            android:padding="5.0dp"
-                           android:text="Every Day 15 MIN"
+                           android:text="Every Day 15 Min"
                            android:textColor="#ffff5722"
                            android:textStyle="bold"
                            />
@@ -97,7 +97,7 @@
                     <pl.droidsonroids.gif.GifImageView
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
-                        android:src="@drawable/exersice_7"
+                        android:src="@drawable/exersice_1"
                         />
 
                 </LinearLayout>
@@ -115,7 +115,7 @@
                         />
                 </LinearLayout>
             </LinearLayout>
-                    <Button
+                    <androidx.appcompat.widget.AppCompatButton
                         android:id="@+id/startyoga1"
                         android:layout_width="fill_parent"
                         android:layout_height="wrap_content"
@@ -151,7 +151,7 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="monospace"
                             android:padding="5.0dp"
-                            android:text="After Age 18"
+                            android:text="ADULTS"
                             android:textColor="#ff000000"
                             android:textSize="20.0dp"
                             android:textStyle="bold"
@@ -161,8 +161,8 @@
                             android:layout_height="wrap_content"
                             android:fontFamily="serif"
                             android:padding="5.0dp"
-                            android:text="Days 60"
-                            android:textSize="20.0dp"
+                            android:text="Once you are exercising regularly, the hardest thing is to stop it"
+                            android:textSize="10.0dp"
                             />
                         <TextView
                             android:layout_width="wrap_content"
@@ -210,7 +210,7 @@
                             />
                     </LinearLayout>
                 </LinearLayout>
-                <Button
+                <androidx.appcompat.widget.AppCompatButton
                     android:id="@+id/startyoga2"
                     android:layout_width="fill_parent"
                     android:layout_height="wrap_content"

@@ -1,3 +1,163 @@
 <resources>
     <string name="app_name">yoga demo app</string>
+    <string name="pose1">    Step 1:- Start in the push-up position with your arms completely straight and directly beneath your shoulders.\n\n
+                             Step 2:- Your body should form a straight line from your shoulders to your ankles. \n\n
+                             Step 3:- Squeeze your abs, lift one foot off the floor and bring your knee up towards your chest while keeping your body in as straight of a line as possible. \n\n
+                             Step 4:- Return to the starting position and repeat the movement with your opposite leg.. </string>
+    <string name="pose2">    Step 1:- Lie flat on your mat with knees bent and feet on the mat. Hands at the base ofyour head and elbows pointed out. Using your abdominals bring your head and shoulders off the mat and come up into a crunch, then lower with control. </string>
+    <string name="pose3">    Step 1:- This movement is performed with a bench and a foot stool.\n\n
+                             Step 2:- Place a bench behind yourself and rest on it with your hands. Place your legs straight out in front of you. You may also place them at an elevated level as shown above.\n\n
+                             Step 3:- Begin with arms in a fully. Slowly bend at your elbows keeping the rest of your body straight. Be sure to keep your elbows back and close together.\n\n
+                             Step 4:- Dip down until your arms form a 90 degree angle and you feel a stretch in the triceps.\n\n
+                             Step 5:- Slowly extend your arms raising your body back up. Pause and contract your triceps muscles at the top. Pause and repeat the movement.</string>
+    <string name="pose4">    Step 1:- Lie flat on the floor with your lower back pressed to the ground (pull your navel in to also target your deep abs). \n\n
+                             Step 2:- Put your hands behind your head, then bring your knees in towards your Chest and lift your shoulder blades off the ground, but be sure not to pull on your neck.\n\n
+                             Step 3:-Straighten your right leg out to about a 4S-degree angle to the ground while turning your upper body to the left, bringing your right elbow towards the left knee.\n\n
+                             Step 4:- Make sure your rib cage is moving and hotjust your elbows. Now switch sides and do the same motion on the other side to complete onerep. </string>
+    <string name="pose5">   Step 1:- Lay down with your hands to your sides for support.
+                             Step 2:- Raise your legs so they are off the ground, keeping the abdominals tight.
+                             Step 3:- Slowly raise your legs 90 degrees, contracting the abdominal muscles. Slowly return to starting position. Do not touch the floor with your feet.\n\n
+                            </string>
+
+
+    <string name="pose6">    Step 1:- Lie on your back on an exercise mat. With your arms straight at your sides, bend your knees and place your feet flat on the floor between18 and 24 inches apart.\n\n
+                             Step 2:- Breathing out, crunch your ab slightly upward and sideways to the right a couple of inches until your right hand touches your right heel.\n\n
+                             Step 3:- Hold brief|y and then return to your starting position while inhaling. Repeat on the left side. </string>
+    <string name="pose7">    Step 1:- You can perform straight-leg crunches by lying face up on the floor with your legs straight and then moving your upper body as you would for a standard bent-knee crunch.\n\n
+                             Step 2:- Alternatively, lie on your back, raise your legs so they are perpendicular to the floor and then perform the standard crunching motion with your torso.
+                             </string>
+    <string name="pose8">    Step 1:- Lie down on the floor placing your feet either under something that Will not move or by having a partner hold them. Your legs should be bent at the kneesPlace your hands behind your head and lock them together by claspihg your fingers. This is the starting position.\n\n
+                             Step 2:- Elevate your upper body so that it creates an imaginary V-shape with your thighs. Breathe out when performing this part of the exercise.\n\n
+                             Step 3:- Once you feel the contraction for a second, lower your upper body back down to the starting position while inhahng. \n\n
+                             Step 4:- Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose9">    Step 1:- Lying on the back,lift stright leg,extend opposite hand to touch toe. \n\n
+                             Step 2:- Please,return,alternate inhale down,exhale up at toe touch.
+                            </string>
+    <string name="pose10">    Step 1:- High Plank position then slowly rotate your torso to the side raising your arm till it gets ihlihe with the other one. \n\n
+                             Step 2:- Then return to the initial position.
+                            </string>
+    <string name="pose11">    Step 1:- Lie on the floor with elbows directly beneath your shoulders and legs fully extended.\n\n
+                             Step 2:- Raise your torso into the air until it makes a straight line from your shoulders to your ankles. Tighten your stomach, squeeze your butt.
+                            </string>
+    <string name="pose12">    Step 1:- Lie down on the floor placing your feet either under something that will not move or by having a partner hold them. Your legs should be bent at the knees. Elevate your upper body so that it creates an imaginary V-shape with your thighs. \n\n
+                             Step 2:- Your arms should be fully extended in front of you perpendicular to your torso and with the hands clasped. This is the starting position.\n\n
+                             Step 3:- This is the starting position. Twist your torso to the right side until your arms are parallel with the floor while breathing out. \n\n
+                             Step 4:- Hold the contraction for a second and move back to the starting position while breathing out. Now move to the opposite side performing the same techniques you applied to the right side. Repeat for the recommended amount of repetitions.
+                            </string>
+    <string name="pose13">    Step 1:- Lie on your back with your knees bent, feet flat and hip width. \n\n
+                             Step 2:- Lower your pelvis 2 inches from the floor. Squeeze your glutes and lift your pelvis back to bridge position.
+
+                            </string>
+    <string name="pose14">    Step 1:- Lie facedown on the floor with your arms extended in front of you and your leg extended behind you. \n\n
+                             Step 2:- In one movement,engage your glutes and lower back to raise your arms,legs,and chest off the floor.\n\n
+                             Step 3:- Hold for a count,then slowly return to the starting position.
+                            </string>
+    <string name="pose15">   Step 1:- Stand, extend arms 90° to sides, bend forward 90° at waist.\n\n
+                             Step 2:- Looking at the floor, rotate torso to touch hand to foot, rotate for other hand. \n\n
+                             Step 3:- Head will follow chest action. </string>
+
+
+    <string-array name="title_story">
+
+        <item>Build More Muscle</item>
+        <item>Replace Coffee with Matcha Green Tea</item>
+        <item> Just Keep Moving</item>
+        <item>Stop Counting Calories</item>
+        <item>Do Job</item>
+        <item>Do Yoga</item>
+        <item>Make One Meal </item>
+
+
+    </string-array>
+
+    <string-array name="details_story">
+
+        <item>Build More Muscle : The repetition continuum is a useful concept when designing training programs for muscle building.
+                                   *Stimulating muscle growth requires performing weight training exercises with an amount of weight
+                                     that only allows you to perform 1–20 repetitions.
+                                    In general, the repetition continuum states that weights you can only lift for a few repetitions
+                                     tend to build more strength,weights you can lift for 6–12 repetitions tend to build more muscle,
+                                     and weights you can lift for 12–20 repetitions tend to increase muscular endurance.
+                                   “It is important that certain individuals identify foods that will be low in caloric intake but
+                                      also high in nutritional value to allow your body and cells to be fed appropriately but not swing
+                                      you out of your caloric deficit,” Silvestri said.
+                                    “It’s said that in weight loss food choicesroughly 80-90% of the equation and exercise is generally 10-20%.”
+                                    For the body to truly build muscle mass, you’ll need to lift relatively heavy weights to a point
+                                     where muscles actually reach a point of fatigue and failure—at that time your muscles will tear
+                                      and break down.
+                                   It is during this repair process where you will become stronger and more defined.
+                                   </item>
+        <item>Replace Coffee with Matcha Green Tea : The amount of caffeine you ingest from green tea depends on a lot of things: the
+                                              variety you choose, whether it involves leaf tips or buds (which contain more caffeine),
+                                              and whether it is powdered or uses whole leaves.
+                                              Matcha, the popular powdered tea, has a much higher caffeine content than leaf green
+                                                teas, because a single cup of it contain many more ground-up leaves than a cup of leaf tea.
+                                              Matcha does have less caffeine than coffee, and it varies depending on how much matcha
+                                                you add to your drink and how much coffee you drink, but the matcha I was drinking has
+                                                34 milligrams of caffeine per serving, versus 95 milligrams in a typical cup of coffee.
+                                              Before matcha, I would get bouts of anxiety during the day that seemed to come from
+                                                 nowhere—simply sitting at my desk, heart racing. Or, if anxiety was prompted by a
+                                                 stimulus like loud music or a crowded subway, it would spiral out of control quickly.
+                                                  Coffee’s caffeine high wreaks havoc on the body.
+                                              There are no spikes and crashes, it just comes on gently and leaves just as gently.</item>
+        <item> Just Keep Moving : Our reasons for beginning to exercise are fundamental to whether we will keep it up, says Michelle
+                                  Segar, the director of the University of Michigan’s Sport, Health and Activity Research and Policy
+                                  Center.
+                                  Too often “society promotes exercise and fitness by hooking into short-term motivation, guilt
+                                     and shame”.
+                                  There is some evidence, she says, that younger people will go to the gym more if their reasons
+                                     are appearance-based, but past our early 20s that doesn’t fuel motivation much.
+                                  We often feel stuck because we don’t see any way out from our current situation we feel we don’t
+                                    have what it takes to start opening up new doors and further our personal development.
+                                   By brainstorming ideas and possibilities, you expand your mind and open your thinking to finding a new
+                                    solution. When you can see potential options, you won’t feel so trapped anymore.
+                                   This is not about deciding the one thing or making the right choice, it’s about allowing your creative
+                                    mind to expand and see all the potential possibilities. We often dive straight into finding the right
+                                    one and eliminate anything that doesn’t feel perfect.
+                                  </item>
+        <item>Stop Counting Calories : We often hear that 1200 calories per day is enough for adults, but this is simply not true. In fact,
+                                       the average adult female requires 1200-1500 calories per day just for basic bodily processes to happen
+                                       (breathing, sleeping, heart beating etc). Our body then needs additional calories for digestion and
+                                       physical activity.
+                                       First, your metabolism changes over time, so your caloric deficit must change over time too to
+                                        continue losing weight. But you can only eat so little!
+                                        Here’s the back story: essentially, when you restrict your calories, your body lowers its resting
+                                         metabolic rate (RMR) to accommodate less energy (AKA calories). This is one reason dieters reach
+                                         weight loss plateaus. </item>
+        <item>Do Job : Keeping your job ensures a steady stream of income. If you decide to leave your job without another opportunity lined up,
+                       for example, there is no telling when you will earn another paycheck. Having some financial stability makes it easier for you
+                      to pay for ordinary expenses such as rent, utilities and groceries.
+                      *Keeping your job ensures a steady stream of income. If you decide to leave your job without another opportunity lined up,
+                        for example, there is no telling when you will earn another paycheck. Having some financial stability makes it easier for
+                         you to pay for ordinary expenses such as rent, utilities and groceries.
+                       If your current position provides you with a benefits package, leaving your job means you will miss out on the advantages
+                        this provides. Though benefits packages last for a while after you leave your company, they are bound to expire at some point.
+                     </item>
+        <item>Do Yoga : Yoga postures are always best practiced on a light or empty stomach. Ensure to keep a 2-3 hours gap in between your meals
+                        and your practice.
+                        Go for loose, comfortable clothing – you wouldn’t want tight, body-hugging outfits coming in the way of
+                          wide stretches. Also, keep aside any excessive jewelry that you are wearing and avoid heavy makeup.Even if this is the only
+                          piece of advice you take from this list, you will have learned a great lesson.
+                         Some days you’re able to pop right up into a challenging arm balance, but other days things are going to be more difficult.
+                         Our bodies are constantly evolving and everything form our mental state to our last workout can affect how you practice.
+                         Don’t expect anything to look or feel a certain way from day to day.It can take years to “perfect” your breath.
+                      </item>
+        <item>Make One Meal : When you live with multiple people, it is easier to buy an abundance of vegetables, proteins, and fruits, because it
+                              is all more likely to be eaten.
+                             Shopping this way for one person, however, will leave you with way more fresh foods
+                               than you can handle.
+                               You might also want to keep a few bags of vegetables and fruits in the freezer, as these are
+                                also simple to portion for one person.
+                              The one-meal-a-day diet is a weight loss plan in which a person eats only one meal per day. On this plan, they will
+                                 not eat or drink anything containing calories for most of the day.
+                                It is a type of intermittent fasting. It alternates long periods without eating or drinking anything containing calories
+                                 with short time windows for eating.
+                              *For example, a study in healthy adults found that restricting calorie intake to a 4-hour time period in the evening led
+                                to significantly greater body fat loss than when eating three separate meals throughout the day</item>
+
+
+    </string-array>
+
+
 </resources>

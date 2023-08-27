@@ -14,8 +14,8 @@ public class Splashscreen extends AppCompatActivity {
 
 
 
-
     Animation up,down;
+    Animation left, right;
     ImageView imageView;
     TextView textView;
 
